@@ -1,2 +1,42 @@
-# Larry-Tesler-Biography
+# Lawrence (Larry) Tesler, 1945 – 2020.
 A biography of Larry Tesler and the impact he made to the field.
+
+![alt text](http://www.nomodes.com/Larry_Tesler_Personal/Home_files/LarryTeslerPersonal.jpg)
+
+## Introduction
+Larry Tesler was an American computer scientist and software engineer. Tesler specialised in the field of human-computer interaction, with a particular interest in user interface design. He made a number of contributions to the field, many of which we still use to this day – copy and paste functionality, the idea of modeless software, and the Xerox Alto computer which inspired the Apple Lisa and later the Apple Macintosh computer. Tesler is no doubt the man to thank every time we use the copy-paste feature on our devices and improving our experiences on our computers. 
+## Early Life
+Tesler gained an interest in computers during high school where he developed a method of finding prime numbers. He showed this to one of his teachers, which led to him getting access to half an hour per week at a university computer where he learned to program (Markoff, 2020). He studied Mathematics at Stanford while also working as a student programmer on an early personal computer known as the LINC for Nobel laurate Joshua Lederberg. He graduated in 1965 and worked on a number of short term programming jobs. One of these jobs included working as a Research Assistant at the Stanford Artificial Intelligence Laboratory. Here he was tasked with creating a "document compiler",  that could “format text and generate footnotes, tables of contents, indexes, and bibliographies” (Perry, 2005). He designed and implemented PUB, which was “one of the first, if not the first” examples of mark-up language with embedded tags of scripting. Here we see Tesler’s first impact to the field, allowing users to easily format and edit their documents on screen, similar to dynamic HTML used in web design today.
+## PARC
+It was at Xerox Palo Alto Research Centre (PARC) where Tesler made his most notable contributions to the field. He accepted a position in the Learning Research Group and began developing Smalltalk, “the first dynamic object-oriented programming language”. Many of the concepts in this language are used in Java, highlighting the impact of his work (Perry, 2005). Tesler began working on the Xerox Alto computer and was “aghast” at the modal-based system the computer operated – the user first had to tell the computer what type of thing they wanted to do before they could do it. For example, if they wanted to delete a word, they first had to enter delete mode before selected the text to be deleted and executing the deletion. Tesler conveyed the problems of a mode-based system and proposed a modeless text-editor. He developed Gypsy, which introduced many new features to text-processing to enhance the user experience: “the cut-and-paste function to move text, a fill-in form to enter search terms, selection of text by holding down a mouse button and dragging the cursor through it, bold and italic type styles, and what-you-see-is-what-you-get printing. Tesler coined that phrase and other now-common terms. Gypsy also first implemented click-to-open files; previously, the only way to open a file was to type its name and the Open command” (Perry, 2005). These innovations by Tesler significantly enhanced the learnability and ease of use on the Xerox computer, and were carried forward to subsequent personal computers such as the Apple Lisa. 
+
+After some time working on the Alto computer, Tesler was invited to begin working on the Dynabook: Notetaker, a portable version the personal computer, similar to a modern day tablet computer (it weighted 16 kilograms however), designed to solely take notes. Tesler worked on the hardware of the device, despite previously having little experience in the field. He came across a problem of implementing ethernet on the device: due to size constraints, the ethernet card “could only hold 24 chips, tops” (Perry, 2005), while existing ones contained more than 100 chips. This led to Tesler moving several of the functions to software. He had created the first software implementation of the Ethernet protocol. Once again, we can see the impact Tesler had; he was no doubt a pioneer in many of the projects he worked on. 
+## Modeless Software
+Tesler was such a firm believer in modeless computing that he personalised his license plate to read “NOMODES”. On top of this, his personal website which contains his CV and accomplishments is under the domain name “nomodes.com” and his twitter handle was “@nomodes”. He maintained this stance throughout his career to simplify the interaction between user and computer. This can be seen as during his time at Apple where he suggested the Apple mouse have only one button, an iconic feature which remains to this day. 
+## Apple
+Steve Jobs and a number of Apple executives bargained a deal with Xerox to take a tour of PARC to gain insight into the projects they were working on. Tesler performed a demonstration of the Alto’s user interface and was blown away by the questions they were asking. They demonstrated far more interest compared to the executives of Xerox and thus Tesler made the switch to Apple and begun working on the Apple Lisa. Tesler brought many of the innovations he had been working on at PARC, such as cut and paste, folders and documents and pop-up menus to market in the form of the Apple Lisa.  Although the Lisa was not a great success, it inspired Apple’s Macintosh line of computers in the coming years.
+
+Tesler was then named vice president of Apple’s Advanced Technology Group. Here, he and his team contributed to products such as “QuickTime, AppleScript, HypeCard and Newton” (Tesler, n.d.). He went on to develop Stagecast Creator, an object oriented programming language aimed at schoolchildren to create their own simulations and video games. This software is still available today in many educational computer labs.
+## Later Life
+Tesler worked at Amazon and Yahoo following his time at Apple, in the field of User Experience and Design. At Amazon, he worked on enhancing the usability of the site and the feature that allows customers to search within books (Perry, 2005). Although he did not make any significant innovations at these companies, we can partly thank Larry Tesler as we browse Amazon’s homepage to find the product we are looking for. Tesler always wanted to give back to the companies who allowed him to pursue his innovations: "There's almost a rite of passage - after you've a made some money you don't just retire, you spend your time funding other companies. There's a very strong element of excitement, of being able to share what you've leaned with the next generation" (Cellan-Jones, 2012). He spent his later years as an independent consultant, helping smaller Silicon Valley companies improve their user interfaces and experiences. Larry died in his home in California on the 16th of February 2020.
+## Conclusion
+Tesler certainly made many significant contributions to the areas of user experience and human-computer interaction. He always strived to innovate and improve what was already available – from creating an algorithm to generate prime numbers as a high-school student, to creating one of the first examples of mark-up language to improve word-processing, to introducing the idea of “modeless” computing to his colleagues at PARC – Tesler always wanted to make it easier for the user to get their task completed. We can certainly take lessons from Larry to this day – he always had the end user in mind, evident when he regularly grabbed “civilians from the building lobby, without computer experience” and sat them down to test the prototype software, something which is often overlooked in today’s software development environment (Perry, 2005). This is no doubt one of the reasons why his innovations were so useful and made such an impact to the lives of many.
+## References
+Cellan-Jones, R., 2012. Larry Tesler: The Silicon Valley history man. [Online] 
+Available at: https://www.bbc.com/news/technology-16439641
+[Accessed 8 November 2020].
+
+Markoff, J., 2020. Lawrence Tesler, Who Made Personal Computing Easier, Dies at 74. [Online] 
+Available at: https://www.nytimes.com/2020/02/20/technology/lawrence-tesler-dead.html
+[Accessed 7 November 2020].
+
+Perry, T. S., 2005. Of Modes and Men. [Online] 
+Available at: https://spectrum.ieee.org/computing/software/of-modes-and-men
+[Accessed 7 November 2020].
+
+Tesler, L., 1962-1980. Larry Tesler CV. [Online] 
+Available at: http://www.nomodes.com/Larry_Tesler_Consulting/1962-1980.html
+[Accessed 7 November 2020].
+
+Tesler, L., n.d. CV 1980-1997, s.l.: s.n.
+
